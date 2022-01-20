@@ -1,2 +1,2 @@
-# -public-smart-contracts
+# public-smart-contracts
 Public smart contracts of PRXCoin
